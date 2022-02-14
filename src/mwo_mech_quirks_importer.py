@@ -1,11 +1,7 @@
 import contextlib
 import logging
 import pathlib
-# import sqlite3
-
-
-# noinspection PyPackageRequirements
-import pysqlite3 as sqlite3
+import sqlite3
 
 
 from aux_types import MechQuirks, OmniMechQuirks, StandardMechQuirks
